@@ -35,6 +35,11 @@ curl -fsSL https://github.com/rasonyang/ai-native-callcenter/releases/latest/dow
 
 Details: [deploy/one-line-installer.md](deploy/one-line-installer.md).
 
+## One-click deploy
+
+<a href="https://repocloud.io/details/AI%20Native%20Call%20Center/"><img src="https://d16t0pc4846x52.cloudfront.net/deploylobe.svg" alt="Deploy on RepoCloud" height="42"></a>
+<a href="https://railway.com/deploy/ai-native-callcenter"><img src="https://railway.com/button.svg" alt="Deploy on Railway" height="42"></a>
+
 ## What it does
 
 **Answers with a model, not a menu.** The AI leg is a SIP endpoint inside the

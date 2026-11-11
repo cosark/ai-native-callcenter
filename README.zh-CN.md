@@ -32,6 +32,11 @@ curl -fsSL https://github.com/rasonyang/ai-native-callcenter/releases/latest/dow
 
 详见 [deploy/one-line-installer.md](deploy/one-line-installer.md)。
 
+## 一键部署
+
+<a href="https://repocloud.io/details/AI%20Native%20Call%20Center/"><img src="https://d16t0pc4846x52.cloudfront.net/deploylobe.svg" alt="Deploy on RepoCloud" height="42"></a>
+<a href="https://railway.com/deploy/ai-native-callcenter"><img src="https://railway.com/button.svg" alt="Deploy on Railway" height="42"></a>
+
 ## 它做什么
 
 **用模型应答，而不是按键菜单。** AI 分支是应用内部的一个 SIP 端点：FreeSWITCH 把
